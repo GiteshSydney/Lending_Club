@@ -9,17 +9,13 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
--
-Its about Lending club Project, where we need to identify Loan defaulter using EDA concepts.
+. Its about Lending club Project, where we need to identify Loan defaulter using EDA concepts.
 
--
-Based on given data set, we need to find indicator which contribute for Loan defaulter.
+. Based on given data set, we need to find indicator which contribute for Loan defaulter.
 
-- 
-Using concepts of EDA we wanted to solve complex credit defaulter problem for corporates, so that we can reduce the case of defaulter.
+. Using concepts of EDA we wanted to solve complex credit defaulter problem for corporates, so that we can reduce the case of defaulter.
 
-- What is the dataset that is being used?
- Data provided by Lending Club i.e. " Loan Data Set"
+. Data provided by Lending Club i.e. " Loan Data Set"
 
 ## Conclusions
 -  From the Analysis we can conclude there are closed to 56 Columns which has irrelevant data.
@@ -40,7 +36,6 @@ Jupter notebook server is: 6.4.5
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Upgrad.
 
 ## Contact
