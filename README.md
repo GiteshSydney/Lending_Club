@@ -9,13 +9,13 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Provide general information about your project here.
+-
 Its about Lending club Project, where we need to identify Loan defaulter using EDA concepts.
 
-- What is the background of your project?
+-
 Based on given data set, we need to find indicator which contribute for Loan defaulter.
 
-- What is the business problem that your project is trying to solve?
+- 
 Using concepts of EDA we wanted to solve complex credit defaulter problem for corporates, so that we can reduce the case of defaulter.
 
 - What is the dataset that is being used?
